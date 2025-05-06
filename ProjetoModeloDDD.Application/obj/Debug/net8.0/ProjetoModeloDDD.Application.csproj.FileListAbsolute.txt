@@ -1,0 +1,11 @@
+C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\net8.0\ProjetoModeloDDD.Application.deps.json
+C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\net8.0\ProjetoModeloDDD.Application.dll
+C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\net8.0\ProjetoModeloDDD.Application.pdb
+C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\net8.0\ProjetoModeloDDD.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\net8.0\ProjetoModeloDDD.Application.AssemblyInfoInputs.cache
+C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\net8.0\ProjetoModeloDDD.Application.AssemblyInfo.cs
+C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\net8.0\ProjetoModeloDDD.Application.csproj.CoreCompileInputs.cache
+C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\net8.0\ProjetoModeloDDD.Application.dll
+C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\net8.0\refint\ProjetoModeloDDD.Application.dll
+C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\net8.0\ProjetoModeloDDD.Application.pdb
+C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\net8.0\ref\ProjetoModeloDDD.Application.dll
