@@ -43,15 +43,43 @@ namespace ProjetoModeloDDD.Infra.Data.Repositories._Base
             return _context.Set<TEntity>().ToList();
         }
 
+        //public TEntity GetByID(int id)
+        //{
+        //    return _context.Set<TEntity>().Find(id);
+        //}
+
         public TEntity GetByID(int id)
         {
-            return _context.Set<TEntity>().Find(id);
+            return _context.Set<TEntity>().FirstOrDefault(e => EF.Property<int>(e, "ClienteID") == id);
         }
+
+        //public TEntity GetByID(int id)
+        //{
+        //    var keyName = _context.Model.FindEntityType(typeof(TEntity)).FindPrimaryKey().Properties
+        //                    .Select(x => x.Name).FirstOrDefault();
+
+        //    return _context.Set<TEntity>().FirstOrDefault(e => EF.Property<int>(e, keyName) == id);
+        //}
+
+
 
         public void Update(TEntity entity)
         {
             _context.Entry(entity).State = EntityState.Modified;
             _context.SaveChanges();
         }
+
+        //public void Update(TEntity entity)
+        //{
+        //    var entry = _context.Entry(entity);
+        //    if (entry.State == EntityState.Detached)
+        //    {
+        //        _context.Set<TEntity>().Attach(entity);
+        //    }
+
+        //    entry.State = EntityState.Modified;
+        //    _context.SaveChanges();
+        //}
+
     }
 }

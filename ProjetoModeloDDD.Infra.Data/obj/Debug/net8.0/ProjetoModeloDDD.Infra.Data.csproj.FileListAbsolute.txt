@@ -9,6 +9,7 @@ C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\De
 C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\net8.0\ProjetoModeloDDD.Infra.Data.AssemblyInfoInputs.cache
 C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\net8.0\ProjetoModeloDDD.Infra.Data.AssemblyInfo.cs
 C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\net8.0\ProjetoModeloDDD.Infra.Data.csproj.CoreCompileInputs.cache
+C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\net8.0\ProjetoModeloDDD.Infra.Data.sourcelink.json
 C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\net8.0\ProjetoM.F5163234.Up2Date
 C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\net8.0\ProjetoModeloDDD.Infra.Data.dll
 C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\net8.0\refint\ProjetoModeloDDD.Infra.Data.dll

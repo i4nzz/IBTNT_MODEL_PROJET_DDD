@@ -5,6 +5,7 @@ C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.DOmain\obj\Debug\
 C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.DOmain\obj\Debug\net8.0\ProjetoModeloDDD.Domain.AssemblyInfoInputs.cache
 C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.DOmain\obj\Debug\net8.0\ProjetoModeloDDD.Domain.AssemblyInfo.cs
 C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.DOmain\obj\Debug\net8.0\ProjetoModeloDDD.Domain.csproj.CoreCompileInputs.cache
+C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.DOmain\obj\Debug\net8.0\ProjetoModeloDDD.Domain.sourcelink.json
 C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.DOmain\obj\Debug\net8.0\ProjetoModeloDDD.Domain.dll
 C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.DOmain\obj\Debug\net8.0\refint\ProjetoModeloDDD.Domain.dll
 C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.DOmain\obj\Debug\net8.0\ProjetoModeloDDD.Domain.pdb

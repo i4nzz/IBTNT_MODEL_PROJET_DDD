@@ -37,11 +37,20 @@ namespace ProjetoModeloDDD.MVC.Mappers
             };
         }
 
-                //    Cliente = produto.Cliente != null ? new ClienteViewModel
-                //            {
-                //                ClienteID = produto.Cliente.ClienteID,
-                //                Nome = produto.Cliente.Nome
-                //} : null // Caso Cliente seja nulo, retorna null
+        // Atualiza os campos de um produto existente (para edição)
+        public static void UpdateEntity(ProdutoViewModel viewModel, Produto produto)
+        {
+            produto.Nome = viewModel.Nome;
+            produto.Valor = viewModel.Valor;
+            produto.Disponivel = viewModel.Disponivel;
+            produto.ClienteID = viewModel.ClienteID;
+        }
+
+        //    Cliente = produto.Cliente != null ? new ClienteViewModel
+        //            {
+        //                ClienteID = produto.Cliente.ClienteID,
+        //                Nome = produto.Cliente.Nome
+        //} : null // Caso Cliente seja nulo, retorna null
 
     }
 }

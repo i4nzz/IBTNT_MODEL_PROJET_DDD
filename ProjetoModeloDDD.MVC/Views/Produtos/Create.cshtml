@@ -1,0 +1,34 @@
+﻿@model ProjetoModeloDDD.MVC.ViewModels.ProdutoViewModel
+
+<h2>Create Produto</h2>
+
+<form asp-action="Create">
+    <div class="form-group">
+        <label asp-for="Nome"></label>
+        <input asp-for="Nome" class="form-control" />
+        <span asp-validation-for="Nome" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Valor"></label>
+        <input asp-for="Valor" class="form-control" />
+        <span asp-validation-for="Valor" class="text-danger"></span>
+    </div>
+
+    <div class="form-group form-check">
+        <input asp-for="Disponivel" class="form-check-input" />
+        <label asp-for="Disponivel" class="form-check-label"></label>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ClienteID">Cliente</label>
+        <select asp-for="ClienteID" class="form-control" asp-items="ViewBag.ClienteID"></select>
+        <span asp-validation-for="ClienteID" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary mt-3">Create</button>
+</form>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

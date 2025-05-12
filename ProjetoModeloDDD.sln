@@ -26,9 +26,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoModeloDDD.Application", "ProjetoModeloDDD.Application\ProjetoModeloDDD.Application.csproj", "{FA652335-9C49-4621-83ED-FD3007F13555}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - IoC", "5 - IoC", "{4D9E8B70-D1E7-413D-8313-76333CD3E2F6}"
-	ProjectSection(SolutionItems) = preProject
-		ProjetoModeloDDD.MVC\IoC\DependencyInjection.cs = ProjetoModeloDDD.MVC\IoC\DependencyInjection.cs
-	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoModeloDDD.IoC", "DependencyInjection\ProjetoModeloDDD.IoC.csproj", "{18FE397B-C985-4B1E-9544-8110DC4D7E0D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -52,6 +51,10 @@ Global
 		{FA652335-9C49-4621-83ED-FD3007F13555}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA652335-9C49-4621-83ED-FD3007F13555}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA652335-9C49-4621-83ED-FD3007F13555}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18FE397B-C985-4B1E-9544-8110DC4D7E0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18FE397B-C985-4B1E-9544-8110DC4D7E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18FE397B-C985-4B1E-9544-8110DC4D7E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18FE397B-C985-4B1E-9544-8110DC4D7E0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -63,5 +66,6 @@ Global
 		{DC201664-D08A-4331-8FE0-71E5C395B5F6} = {9AF84E9E-6123-4EF9-821A-7C9E6DBD51DC}
 		{1664AA89-6665-4F1D-8268-15A5774050AA} = {EAFB11B7-3296-4A10-92A0-C93B548A3E44}
 		{FA652335-9C49-4621-83ED-FD3007F13555} = {52094419-6DDB-4F70-8C33-282949219717}
+		{18FE397B-C985-4B1E-9544-8110DC4D7E0D} = {4D9E8B70-D1E7-413D-8313-76333CD3E2F6}
 	EndGlobalSection
 EndGlobal

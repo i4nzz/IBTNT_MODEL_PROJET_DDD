@@ -16,6 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\DependencyInjection\ProjetoModeloDDD.IoC.csproj" />
     <ProjectReference Include="..\ProjetoModeloDDD.Application\ProjetoModeloDDD.Application.csproj" />
     <ProjectReference Include="..\ProjetoModeloDDD.DOmain\ProjetoModeloDDD.Domain.csproj" />
     <ProjectReference Include="..\ProjetoModeloDDD.Infra.Data\ProjetoModeloDDD.Infra.Data.csproj" />

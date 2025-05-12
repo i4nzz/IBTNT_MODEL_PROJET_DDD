@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "ProjetoModeloDDD.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ProjetoModeloDDD.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProjetoModeloDDD.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ProjetoModeloDDD.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ProjetoModeloDDD.DOmain/ProjetoModeloDDD.Domain.csproj",
+      "msbuildProject": "../ProjetoModeloDDD.DOmain/ProjetoModeloDDD.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "ProjetoModeloDDD.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Ian\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.DOmain\\ProjetoModeloDDD.Domain.csproj": {
+              "projectPath": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.DOmain\\ProjetoModeloDDD.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

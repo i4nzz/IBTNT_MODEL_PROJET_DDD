@@ -2834,6 +2834,9 @@
       "ProjetoModeloDDD.Application/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ProjetoModeloDDD.Domain": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/ProjetoModeloDDD.Application.dll": {}
         },
@@ -2865,6 +2868,21 @@
         },
         "runtime": {
           "bin/placeholder/ProjetoModeloDDD.Infra.Data.dll": {}
+        }
+      },
+      "ProjetoModeloDDD.IoC/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ProjetoModeloDDD.Application": "1.0.0",
+          "ProjetoModeloDDD.Domain": "1.0.0",
+          "ProjetoModeloDDD.Infra.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ProjetoModeloDDD.IoC.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProjetoModeloDDD.IoC.dll": {}
         }
       }
     }
@@ -7839,6 +7857,11 @@
       "type": "project",
       "path": "../ProjetoModeloDDD.Infra.Data/ProjetoModeloDDD.Infra.Data.csproj",
       "msbuildProject": "../ProjetoModeloDDD.Infra.Data/ProjetoModeloDDD.Infra.Data.csproj"
+    },
+    "ProjetoModeloDDD.IoC/1.0.0": {
+      "type": "project",
+      "path": "../DependencyInjection/ProjetoModeloDDD.IoC.csproj",
+      "msbuildProject": "../DependencyInjection/ProjetoModeloDDD.IoC.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -7848,7 +7871,8 @@
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 8.0.7",
       "ProjetoModeloDDD.Application >= 1.0.0",
       "ProjetoModeloDDD.Domain >= 1.0.0",
-      "ProjetoModeloDDD.Infra.Data >= 1.0.0"
+      "ProjetoModeloDDD.Infra.Data >= 1.0.0",
+      "ProjetoModeloDDD.IoC >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -7883,6 +7907,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\DependencyInjection\\ProjetoModeloDDD.IoC.csproj": {
+              "projectPath": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\DependencyInjection\\ProjetoModeloDDD.IoC.csproj"
+            },
             "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.Application\\ProjetoModeloDDD.Application.csproj": {
               "projectPath": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.Application\\ProjetoModeloDDD.Application.csproj"
             },

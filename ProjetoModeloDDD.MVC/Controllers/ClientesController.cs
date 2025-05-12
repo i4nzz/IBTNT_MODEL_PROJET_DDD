@@ -1,7 +1,5 @@
-﻿using AutoMapper;
-using Microsoft.AspNetCore.Mvc;
-using ProjetoModeloDDD.Domain.Entities;
-using ProjetoModeloDDD.Domain.Interfaces.Repositories;
+﻿using Microsoft.AspNetCore.Mvc;
+using ProjetoModeloDDD.Application.Interfaces.Services;
 using ProjetoModeloDDD.MVC.Mappers;
 using ProjetoModeloDDD.MVC.ViewModels;
 
@@ -9,16 +7,16 @@ namespace ProjetoModeloDDD.MVC.Controllers
 {
     public class ClientesController : Controller
     {
-        private readonly IClienteRepository _clienteRepository;
+        private readonly IClienteAppService _clienteAppService;
 
-        public ClientesController(IClienteRepository clienteRepository)
+        public ClientesController(IClienteAppService clienteAppService)
         {
-            _clienteRepository = clienteRepository;
+            _clienteAppService = clienteAppService;
         }
 
-        public IActionResult Index()
+        public ActionResult Index()
         {
-            var clientes = _clienteRepository.GetAll();
+            var clientes = _clienteAppService.GetAll();
 
             // mapeia a lista de entidades para lista de viewmodels
             var clienteViewModels = clientes.Select(c => ClienteMapper.ToViewModel(c));
@@ -26,13 +24,23 @@ namespace ProjetoModeloDDD.MVC.Controllers
             return View(clienteViewModels);
         }
 
+        public ActionResult getClienteEspecial()
+        {
+            var clientesEspeciais = _clienteAppService.ObterClientesEspeciais();
 
+            var clientesEspeciaisViewModel = clientesEspeciais.Select(c => ClienteMapper.ToViewModel(c));
 
+            return View(clientesEspeciaisViewModel);
+        }
 
         // GET: ClientesController/Details/5
         public ActionResult Details(int id)
         {
-            return View();
+            var cliente = _clienteAppService.GetByID(id);
+
+            var clienteViewModel = ClienteMapper.ToViewModel(cliente);
+
+            return View(clienteViewModel);
         }
 
         // GET: ClientesController/Create
@@ -49,70 +57,91 @@ namespace ProjetoModeloDDD.MVC.Controllers
             if (ModelState.IsValid)
             {
                 var clienteDomain = ClienteMapper.ToEntity(viewModel);
-                _clienteRepository.Add(clienteDomain);
+                _clienteAppService.Add(clienteDomain);
 
                 return RedirectToAction("Index");
             }
             return View(viewModel);
         }
 
-
-
-
-        //[HttpPost]
-        //[ValidateAntiForgeryToken]
-        //public ActionResult Create(ClienteViewModel viewModel)
+        // GET: ClientesController/Edit/5
+        //public ActionResult Edit(int id)
         //{
-        //    if (ModelState.IsValid)
-        //    {
-        //        var clienteDomain = ClienteMapper.ToEntity(viewModel); // Mapeia pra entidade de domínio!
-        //        _clienteRepository.Add(clienteDomain);
+        //    var cliente = _clienteAppService.GetByID(id);
 
-        //        return RedirectToAction("Index");
-        //    }
-        //    return View(viewModel);
+        //    var clienteViewModel = ClienteMapper.ToViewModel(cliente);
+
+        //    return View(clienteViewModel);
+
         //}
 
         // GET: ClientesController/Edit/5
         public ActionResult Edit(int id)
         {
-            return View();
+            Console.WriteLine($"Controller: Buscando cliente com ID: {id}");
+
+            var cliente = _clienteAppService.GetByID(id);
+            if (cliente == null)
+            {
+                Console.WriteLine("Cliente não encontrado.");
+                return NotFound();
+            }
+
+            var clienteViewModel = ClienteMapper.ToViewModel(cliente);
+            return View(clienteViewModel);
         }
+
 
         // POST: ClientesController/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
+        public ActionResult Edit(ClienteViewModel clienteViewModel)
         {
-            try
+            if (ModelState.IsValid)
             {
-                return RedirectToAction(nameof(Index));
+                
+                // Verifica se o cliente existe
+                var cliente = _clienteAppService.GetByID(clienteViewModel.ClienteID);
+                if (cliente == null)
+                {
+                    ModelState.AddModelError("", "Cliente não encontrado.");
+                    return View(clienteViewModel);
+                }
+
+                // Atualiza os campos do cliente
+                ClienteMapper.UpdateEntity(clienteViewModel, cliente);
+
+                // Atualiza o cliente no banco de dados
+                _clienteAppService.Update(cliente);
+
+                return RedirectToAction("Index");
             }
-            catch
-            {
-                return View();
-            }
+
+            return View(clienteViewModel);
         }
+        
+
 
         // GET: ClientesController/Delete/5
         public ActionResult Delete(int id)
         {
-            return View();
+            var cliente = _clienteAppService.GetByID(id);
+            var clienteViewModel = ClienteMapper.ToViewModel(cliente);
+
+            _clienteAppService.Delete(cliente);
+
+            return RedirectToAction("Index");
         }
 
         // POST: ClientesController/Delete/5
-        [HttpPost]
+        [HttpPost,ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
+        public ActionResult DeleteConfirmed(int id)
         {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
+            var cliente = _clienteAppService.GetByID(id);
+            _clienteAppService.Delete(cliente);
+
+            return RedirectToAction("Index");
         }
     }
 }

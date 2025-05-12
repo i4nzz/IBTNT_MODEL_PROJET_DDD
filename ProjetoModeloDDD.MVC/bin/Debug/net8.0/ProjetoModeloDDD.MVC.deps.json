@@ -13,7 +13,8 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.7",
           "ProjetoModeloDDD.Application": "1.0.0",
           "ProjetoModeloDDD.Domain": "1.0.0",
-          "ProjetoModeloDDD.Infra.Data": "1.0.0"
+          "ProjetoModeloDDD.Infra.Data": "1.0.0",
+          "ProjetoModeloDDD.IoC": "1.0.0"
         },
         "runtime": {
           "ProjetoModeloDDD.MVC.dll": {}
@@ -2068,6 +2069,9 @@
         }
       },
       "ProjetoModeloDDD.Application/1.0.0": {
+        "dependencies": {
+          "ProjetoModeloDDD.Domain": "1.0.0"
+        },
         "runtime": {
           "ProjetoModeloDDD.Application.dll": {
             "assemblyVersion": "1.0.0",
@@ -2092,6 +2096,19 @@
         },
         "runtime": {
           "ProjetoModeloDDD.Infra.Data.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ProjetoModeloDDD.IoC/1.0.0": {
+        "dependencies": {
+          "ProjetoModeloDDD.Application": "1.0.0",
+          "ProjetoModeloDDD.Domain": "1.0.0",
+          "ProjetoModeloDDD.Infra.Data": "1.0.0"
+        },
+        "runtime": {
+          "ProjetoModeloDDD.IoC.dll": {
             "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -3243,6 +3260,11 @@
       "sha512": ""
     },
     "ProjetoModeloDDD.Infra.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProjetoModeloDDD.IoC/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

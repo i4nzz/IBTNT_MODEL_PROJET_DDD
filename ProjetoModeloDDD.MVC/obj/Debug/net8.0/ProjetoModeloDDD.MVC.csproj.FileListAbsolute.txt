@@ -38,6 +38,7 @@ C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Debug\net
 C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
 C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
 C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
 C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
@@ -263,6 +264,8 @@ C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Debug\net
 C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Debug\net8.0\ProjetoModeloDDD.Application.dll
 C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Debug\net8.0\ProjetoModeloDDD.Domain.dll
 C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Debug\net8.0\ProjetoModeloDDD.Infra.Data.dll
+C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Debug\net8.0\ProjetoModeloDDD.IoC.dll
+C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Debug\net8.0\ProjetoModeloDDD.IoC.pdb
 C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Debug\net8.0\ProjetoModeloDDD.Application.pdb
 C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Debug\net8.0\ProjetoModeloDDD.Domain.pdb
 C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Debug\net8.0\ProjetoModeloDDD.Infra.Data.pdb
@@ -274,6 +277,7 @@ C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\net
 C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\net8.0\ProjetoModeloDDD.MVC.MvcApplicationPartsAssemblyInfo.cache
 C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\net8.0\ProjetoModeloDDD.MVC.RazorAssemblyInfo.cache
 C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\net8.0\ProjetoModeloDDD.MVC.RazorAssemblyInfo.cs
+C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\net8.0\ProjetoModeloDDD.MVC.sourcelink.json
 C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\net8.0\scopedcss\bundle\ProjetoModeloDDD.MVC.styles.css
 C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\net8.0\scopedcss\projectbundle\ProjetoModeloDDD.MVC.bundle.scp.css
@@ -286,11 +290,10 @@ C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\net
 C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProjetoModeloDDD.MVC.props
 C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProjetoModeloDDD.MVC.props
 C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\net8.0\staticwebassets.pack.json
+C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\net8.0\ProjetoM.93518C2E.Up2Date
 C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\net8.0\ProjetoModeloDDD.MVC.dll
 C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\net8.0\refint\ProjetoModeloDDD.MVC.dll
 C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\net8.0\ProjetoModeloDDD.MVC.pdb
 C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\net8.0\ProjetoModeloDDD.MVC.genruntimeconfig.cache
 C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\net8.0\ref\ProjetoModeloDDD.MVC.dll
-C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
-C:\_source\DDD_EDUARDO_PIRES\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using ProjetoModeloDDD.Infra.Data.Context;
-using ProjetoModeloDDD.MVC.IoC; // Importa a IoC
+//using ProjetoModeloDDD.MVC.IoC; // Importa a IoC
+using ProjetoModeloDDD.IoC;
 
 var builder = WebApplication.CreateBuilder(args);
 

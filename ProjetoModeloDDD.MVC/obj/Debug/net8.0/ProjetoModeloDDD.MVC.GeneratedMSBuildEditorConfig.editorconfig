@@ -28,8 +28,24 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/_source/DDD_EDUARDO_PIRES/ProjetoModeloDDD/ProjetoModeloDDD.MVC/Views/Clientes/ClientesEspeciais.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQ2xpZW50ZXNFc3BlY2lhaXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/_source/DDD_EDUARDO_PIRES/ProjetoModeloDDD/ProjetoModeloDDD.MVC/Views/Clientes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/_source/DDD_EDUARDO_PIRES/ProjetoModeloDDD/ProjetoModeloDDD.MVC/Views/Clientes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/_source/DDD_EDUARDO_PIRES/ProjetoModeloDDD/ProjetoModeloDDD.MVC/Views/Clientes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/_source/DDD_EDUARDO_PIRES/ProjetoModeloDDD/ProjetoModeloDDD.MVC/Views/Clientes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/_source/DDD_EDUARDO_PIRES/ProjetoModeloDDD/ProjetoModeloDDD.MVC/Views/Clientes/Index.cshtml]
@@ -42,6 +58,26 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/_source/DDD_EDUARDO_PIRES/ProjetoModeloDDD/ProjetoModeloDDD.MVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/_source/DDD_EDUARDO_PIRES/ProjetoModeloDDD/ProjetoModeloDDD.MVC/Views/Produtos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/_source/DDD_EDUARDO_PIRES/ProjetoModeloDDD/ProjetoModeloDDD.MVC/Views/Produtos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/_source/DDD_EDUARDO_PIRES/ProjetoModeloDDD/ProjetoModeloDDD.MVC/Views/Produtos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/_source/DDD_EDUARDO_PIRES/ProjetoModeloDDD/ProjetoModeloDDD.MVC/Views/Produtos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/_source/DDD_EDUARDO_PIRES/ProjetoModeloDDD/ProjetoModeloDDD.MVC/Views/Produtos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/_source/DDD_EDUARDO_PIRES/ProjetoModeloDDD/ProjetoModeloDDD.MVC/Views/Shared/Error.cshtml]

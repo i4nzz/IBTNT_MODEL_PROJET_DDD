@@ -21,6 +21,14 @@ namespace ProjetoModeloDDD.Infra.Data.Context
             // Remove pluralização
             modelBuilder.Entity<Cliente>().ToTable("Cliente");
 
+            modelBuilder.Entity<Cliente>().HasKey(c => c.ClienteID);
+
+
+            modelBuilder.Entity<Produto>()
+            .ToTable("Produto")
+            .HasKey(p => p.ProdutoID);
+
+
             // Desativa DeleteBehavior.Cascade para todos os relacionamentos (OneToMany e ManyToMany)
             foreach (var entity in modelBuilder.Model.GetEntityTypes())
             {

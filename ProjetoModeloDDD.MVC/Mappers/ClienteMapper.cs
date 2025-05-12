@@ -18,6 +18,15 @@ namespace ProjetoModeloDDD.MVC.Mappers
             };
         }
 
+        // Atualiza o Cliente existente (para Edit)
+        public static void UpdateEntity(ClienteViewModel viewModel, Cliente cliente)
+        {
+            cliente.Nome = viewModel.Nome;
+            cliente.Sobrenome = viewModel.Sobrenome;
+            cliente.Email = viewModel.Email;
+            cliente.Ativo = viewModel.Ativo;
+        }
+
         public static Cliente ToEntity(ClienteViewModel viewModel)
         {
             return new Cliente

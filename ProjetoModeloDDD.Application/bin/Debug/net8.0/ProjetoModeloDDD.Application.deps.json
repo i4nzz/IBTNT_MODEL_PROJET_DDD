@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "ProjetoModeloDDD.Application/1.0.0": {
+        "dependencies": {
+          "ProjetoModeloDDD.Domain": "1.0.0"
+        },
         "runtime": {
           "ProjetoModeloDDD.Application.dll": {}
+        }
+      },
+      "ProjetoModeloDDD.Domain/1.0.0": {
+        "runtime": {
+          "ProjetoModeloDDD.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "ProjetoModeloDDD.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProjetoModeloDDD.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
