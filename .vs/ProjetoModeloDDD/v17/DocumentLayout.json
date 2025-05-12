@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8F34E748-4875-4121-8141-4CE08D101FC9}|ProjetoModeloDDD.MVC\\ProjetoModeloDDD.MVC.csproj|c:\\_source\\ddd_eduardo_pires\\projetomodeloddd\\projetomodeloddd.mvc\\viewmodels\\clienteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F34E748-4875-4121-8141-4CE08D101FC9}|ProjetoModeloDDD.MVC\\ProjetoModeloDDD.MVC.csproj|solutionrelative:projetomodeloddd.mvc\\viewmodels\\clienteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F34E748-4875-4121-8141-4CE08D101FC9}|ProjetoModeloDDD.MVC\\ProjetoModeloDDD.MVC.csproj|c:\\_source\\ddd_eduardo_pires\\projetomodeloddd\\projetomodeloddd.mvc\\mappers\\clientemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F34E748-4875-4121-8141-4CE08D101FC9}|ProjetoModeloDDD.MVC\\ProjetoModeloDDD.MVC.csproj|solutionrelative:projetomodeloddd.mvc\\mappers\\clientemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1664AA89-6665-4F1D-8268-15A5774050AA}|ProjetoModeloDDD.Infra.Data\\ProjetoModeloDDD.Infra.Data.csproj|c:\\_source\\ddd_eduardo_pires\\projetomodeloddd\\projetomodeloddd.infra.data\\entityconfig\\clienteconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1664AA89-6665-4F1D-8268-15A5774050AA}|ProjetoModeloDDD.Infra.Data\\ProjetoModeloDDD.Infra.Data.csproj|solutionrelative:projetomodeloddd.infra.data\\entityconfig\\clienteconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC201664-D08A-4331-8FE0-71E5C395B5F6}|ProjetoModeloDDD.DOmain\\ProjetoModeloDDD.Domain.csproj|c:\\_source\\ddd_eduardo_pires\\projetomodeloddd\\projetomodeloddd.domain\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC201664-D08A-4331-8FE0-71E5C395B5F6}|ProjetoModeloDDD.DOmain\\ProjetoModeloDDD.Domain.csproj|solutionrelative:projetomodeloddd.domain\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1664AA89-6665-4F1D-8268-15A5774050AA}|ProjetoModeloDDD.Infra.Data\\ProjetoModeloDDD.Infra.Data.csproj|c:\\_source\\ddd_eduardo_pires\\projetomodeloddd\\projetomodeloddd.infra.data\\context\\projetomodelocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1664AA89-6665-4F1D-8268-15A5774050AA}|ProjetoModeloDDD.Infra.Data\\ProjetoModeloDDD.Infra.Data.csproj|solutionrelative:projetomodeloddd.infra.data\\context\\projetomodelocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -86,14 +102,6 @@
       "RelativeMoniker": "D:0:0:{1664AA89-6665-4F1D-8268-15A5774050AA}|ProjetoModeloDDD.Infra.Data\\ProjetoModeloDDD.Infra.Data.csproj|solutionrelative:projetomodeloddd.infra.data\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F34E748-4875-4121-8141-4CE08D101FC9}|ProjetoModeloDDD.MVC\\ProjetoModeloDDD.MVC.csproj|c:\\_source\\ddd_eduardo_pires\\projetomodeloddd\\projetomodeloddd.mvc\\mappers\\clientemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F34E748-4875-4121-8141-4CE08D101FC9}|ProjetoModeloDDD.MVC\\ProjetoModeloDDD.MVC.csproj|solutionrelative:projetomodeloddd.mvc\\mappers\\clientemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F34E748-4875-4121-8141-4CE08D101FC9}|ProjetoModeloDDD.MVC\\ProjetoModeloDDD.MVC.csproj|c:\\_source\\ddd_eduardo_pires\\projetomodeloddd\\projetomodeloddd.mvc\\viewmodels\\clienteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F34E748-4875-4121-8141-4CE08D101FC9}|ProjetoModeloDDD.MVC\\ProjetoModeloDDD.MVC.csproj|solutionrelative:projetomodeloddd.mvc\\viewmodels\\clienteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{18FE397B-C985-4B1E-9544-8110DC4D7E0D}|DependencyInjection\\ProjetoModeloDDD.IoC.csproj|c:\\_source\\ddd_eduardo_pires\\projetomodeloddd\\dependencyinjection\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18FE397B-C985-4B1E-9544-8110DC4D7E0D}|DependencyInjection\\ProjetoModeloDDD.IoC.csproj|solutionrelative:dependencyinjection\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -142,10 +150,6 @@
       "RelativeMoniker": "D:0:0:{DC201664-D08A-4331-8FE0-71E5C395B5F6}|ProjetoModeloDDD.DOmain\\ProjetoModeloDDD.Domain.csproj|solutionrelative:projetomodeloddd.domain\\interfaces\\_base\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC201664-D08A-4331-8FE0-71E5C395B5F6}|ProjetoModeloDDD.DOmain\\ProjetoModeloDDD.Domain.csproj|c:\\_source\\ddd_eduardo_pires\\projetomodeloddd\\projetomodeloddd.domain\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC201664-D08A-4331-8FE0-71E5C395B5F6}|ProjetoModeloDDD.DOmain\\ProjetoModeloDDD.Domain.csproj|solutionrelative:projetomodeloddd.domain\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DC201664-D08A-4331-8FE0-71E5C395B5F6}|ProjetoModeloDDD.DOmain\\ProjetoModeloDDD.Domain.csproj|c:\\_source\\ddd_eduardo_pires\\projetomodeloddd\\projetomodeloddd.domain\\interfaces\\services\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC201664-D08A-4331-8FE0-71E5C395B5F6}|ProjetoModeloDDD.DOmain\\ProjetoModeloDDD.Domain.csproj|solutionrelative:projetomodeloddd.domain\\interfaces\\services\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -178,10 +182,6 @@
       "RelativeMoniker": "D:0:0:{8F34E748-4875-4121-8141-4CE08D101FC9}|ProjetoModeloDDD.MVC\\ProjetoModeloDDD.MVC.csproj|solutionrelative:projetomodeloddd.mvc\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1664AA89-6665-4F1D-8268-15A5774050AA}|ProjetoModeloDDD.Infra.Data\\ProjetoModeloDDD.Infra.Data.csproj|c:\\_source\\ddd_eduardo_pires\\projetomodeloddd\\projetomodeloddd.infra.data\\entityconfig\\clienteconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1664AA89-6665-4F1D-8268-15A5774050AA}|ProjetoModeloDDD.Infra.Data\\ProjetoModeloDDD.Infra.Data.csproj|solutionrelative:projetomodeloddd.infra.data\\entityconfig\\clienteconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8F34E748-4875-4121-8141-4CE08D101FC9}|ProjetoModeloDDD.MVC\\ProjetoModeloDDD.MVC.csproj|c:\\_source\\ddd_eduardo_pires\\projetomodeloddd\\projetomodeloddd.mvc\\automapper_old\\domaintoviewmodelmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F34E748-4875-4121-8141-4CE08D101FC9}|ProjetoModeloDDD.MVC\\ProjetoModeloDDD.MVC.csproj|solutionrelative:projetomodeloddd.mvc\\automapper_old\\domaintoviewmodelmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -197,11 +197,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 45,
+          "SelectedChildIndex": 33,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "ProdutoRepository.cs",
               "DocumentMoniker": "C:\\Users\\Ian\\AppData\\Local\\SourceServer\\f287e633351a0d8eaf765578af47721c57ab05dd162da6f12a979e78fa8e91e3\\ProjetoModeloDDD.Infra.Data\\Repositories\\ProdutoRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Users\\Ian\\AppData\\Local\\SourceServer\\f287e633351a0d8eaf765578af47721c57ab05dd162da6f12a979e78fa8e91e3\\ProjetoModeloDDD.Infra.Data\\Repositories\\ProdutoRepository.cs",
@@ -213,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.MVC\\Views\\Produtos\\Edit.cshtml",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.MVC\\Views\\Produtos\\Edit.cshtml",
@@ -225,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.MVC\\Views\\Produtos\\Delete.cshtml",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.MVC\\Views\\Produtos\\Delete.cshtml",
@@ -237,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.MVC\\Views\\Produtos\\Details.cshtml",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.MVC\\Views\\Produtos\\Details.cshtml",
@@ -249,7 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.MVC\\Views\\Produtos\\Create.cshtml",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.MVC\\Views\\Produtos\\Create.cshtml",
@@ -261,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.MVC\\Views\\Produtos\\Index.cshtml",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.MVC\\Views\\Produtos\\Index.cshtml",
@@ -273,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "ProdutosController.cs",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.MVC\\Controllers\\ProdutosController.cs",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.MVC\\Controllers\\ProdutosController.cs",
@@ -285,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\DependencyInjection\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "DependencyInjection\\DependencyInjection.cs",
@@ -297,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "ClientesEspeciais.cshtml",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.MVC\\Views\\Clientes\\ClientesEspeciais.cshtml",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.MVC\\Views\\Clientes\\ClientesEspeciais.cshtml",
@@ -309,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.MVC\\Views\\Clientes\\Edit.cshtml",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.MVC\\Views\\Clientes\\Edit.cshtml",
@@ -321,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.MVC\\Views\\Clientes\\Details.cshtml",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.MVC\\Views\\Clientes\\Details.cshtml",
@@ -333,7 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.MVC\\Views\\Clientes\\Delete.cshtml",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.MVC\\Views\\Clientes\\Delete.cshtml",
@@ -345,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "ProdutoAppService.cs",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.Application\\Services\\ProdutoAppService.cs",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.Application\\Services\\ProdutoAppService.cs",
@@ -357,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "ClienteAppService.cs",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.Application\\Services\\ClienteAppService.cs",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.Application\\Services\\ClienteAppService.cs",
@@ -369,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "AppServiceBase.cs",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.Application\\Services\\_Base\\AppServiceBase.cs",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.Application\\Services\\_Base\\AppServiceBase.cs",
@@ -381,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "IProdutoAppService.cs",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.Application\\Interfaces\\Services\\IProdutoAppService.cs",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.Application\\Interfaces\\Services\\IProdutoAppService.cs",
@@ -393,7 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "IClienteAppService.cs",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.Application\\Interfaces\\Services\\IClienteAppService.cs",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.Application\\Interfaces\\Services\\IClienteAppService.cs",
@@ -405,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "IAppServiceBase.cs",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.Application\\Interfaces\\_Base\\IAppServiceBase.cs",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.Application\\Interfaces\\_Base\\IAppServiceBase.cs",
@@ -417,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "ProjetoModeloDDD.Application.csproj",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.Application\\ProjetoModeloDDD.Application.csproj",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.Application\\ProjetoModeloDDD.Application.csproj",
@@ -429,7 +429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "ProdutoService.cs",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.Domain\\Services\\ProdutoService.cs",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.Domain\\Services\\ProdutoService.cs",
@@ -441,19 +441,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 3,
               "Title": "ClienteService.cs",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.Domain\\Services\\ClienteService.cs",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.Domain\\Services\\ClienteService.cs",
               "ToolTip": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.Domain\\Services\\ClienteService.cs",
               "RelativeToolTip": "ProjetoModeloDDD.Domain\\Services\\ClienteService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T02:42:43.102Z"
+              "WhenOpened": "2025-05-06T02:42:43.102Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "ServiceBase.cs",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.Domain\\Services\\_Base\\ServiceBase.cs",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.Domain\\Services\\_Base\\ServiceBase.cs",
@@ -465,7 +466,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "IProdutoService.cs",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.Domain\\Interfaces\\Services\\IProdutoService.cs",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.Domain\\Interfaces\\Services\\IProdutoService.cs",
@@ -477,7 +478,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "IClienteService.cs",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.Domain\\Interfaces\\Services\\IClienteService.cs",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.Domain\\Interfaces\\Services\\IClienteService.cs",
@@ -489,7 +490,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "IServiceBase.cs",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.Domain\\Interfaces\\Services\\_Base\\IServiceBase.cs",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.Domain\\Interfaces\\Services\\_Base\\IServiceBase.cs",
@@ -501,7 +502,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.MVC\\IoC_OLD\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.MVC\\IoC_OLD\\DependencyInjection.cs",
@@ -513,7 +514,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.MVC\\Views\\Clientes\\Create.cshtml",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.MVC\\Views\\Clientes\\Create.cshtml",
@@ -525,7 +526,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.MVC\\Views\\Clientes\\Index.cshtml",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.MVC\\Views\\Clientes\\Index.cshtml",
@@ -537,7 +538,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "ClientesController.cs",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.MVC\\Controllers\\ClientesController.cs",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.MVC\\Controllers\\ClientesController.cs",
@@ -549,7 +550,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "ProdutoMapper.cs",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.MVC\\Mappers\\ProdutoMapper.cs",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.MVC\\Mappers\\ProdutoMapper.cs",
@@ -561,15 +562,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 1,
               "Title": "ClienteMapper.cs",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.MVC\\Mappers\\ClienteMapper.cs",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.MVC\\Mappers\\ClienteMapper.cs",
               "ToolTip": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.MVC\\Mappers\\ClienteMapper.cs",
               "RelativeToolTip": "ProjetoModeloDDD.MVC\\Mappers\\ClienteMapper.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T18:25:34.412Z"
+              "WhenOpened": "2025-05-04T18:25:34.412Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -585,7 +587,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "ProdutoViewModel.cs",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.MVC\\ViewModels\\ProdutoViewModel.cs",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.MVC\\ViewModels\\ProdutoViewModel.cs",
@@ -597,19 +599,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 0,
               "Title": "ClienteViewModel.cs",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.MVC\\ViewModels\\ClienteViewModel.cs",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.MVC\\ViewModels\\ClienteViewModel.cs",
               "ToolTip": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.MVC\\ViewModels\\ClienteViewModel.cs",
               "RelativeToolTip": "ProjetoModeloDDD.MVC\\ViewModels\\ClienteViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T17:46:48.586Z"
+              "WhenOpened": "2025-05-04T17:46:48.586Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "ProdutoRepository.cs",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.Infra.Data\\Repositories\\ProdutoRepository.cs",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.Infra.Data\\Repositories\\ProdutoRepository.cs",
@@ -621,7 +624,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "IProdutoRepository.cs",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.Domain\\Interfaces\\Repositories\\IProdutoRepository.cs",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.Domain\\Interfaces\\Repositories\\IProdutoRepository.cs",
@@ -633,7 +636,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "ClienteRepository.cs",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.Infra.Data\\Repositories\\ClienteRepository.cs",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.Infra.Data\\Repositories\\ClienteRepository.cs",
@@ -645,7 +648,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "RepositoryBase.cs",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.Infra.Data\\Repositories\\_Base\\RepositoryBase.cs",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.Infra.Data\\Repositories\\_Base\\RepositoryBase.cs",
@@ -657,7 +660,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "IClienteRepository.cs",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.Domain\\Interfaces\\Repositories\\IClienteRepository.cs",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.Domain\\Interfaces\\Repositories\\IClienteRepository.cs",
@@ -669,7 +672,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "IRepositoryBase.cs",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.Domain\\Interfaces\\_Base\\IRepositoryBase.cs",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.Domain\\Interfaces\\_Base\\IRepositoryBase.cs",
@@ -693,7 +696,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.Domain\\Entities\\Produto.cs",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.Domain\\Entities\\Produto.cs",
@@ -705,7 +708,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 2,
               "Title": "ClienteConfiguration.cs",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.Infra.Data\\EntityConfig\\ClienteConfiguration.cs",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.Infra.Data\\EntityConfig\\ClienteConfiguration.cs",
@@ -713,11 +716,12 @@
               "RelativeToolTip": "ProjetoModeloDDD.Infra.Data\\EntityConfig\\ClienteConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T21:09:30.882Z"
+              "WhenOpened": "2025-05-01T21:09:30.882Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.MVC\\Program.cs",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.MVC\\Program.cs",
@@ -729,7 +733,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.MVC\\appsettings.json",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.MVC\\appsettings.json",
@@ -741,7 +745,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ProjetoModeloContext.cs",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.Infra.Data\\Context\\ProjetoModeloContext.cs",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.Infra.Data\\Context\\ProjetoModeloContext.cs",
@@ -754,7 +758,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\_source\\DDD_EDUARDO_PIRES\\ProjetoModeloDDD\\ProjetoModeloDDD.Domain\\Entities\\Cliente.cs",
               "RelativeDocumentMoniker": "ProjetoModeloDDD.Domain\\Entities\\Cliente.cs",
